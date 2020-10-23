@@ -1,0 +1,18 @@
+{
+  "name": "arktobot",
+  "version": "1.0.0",
+  "description": "Family Telegram Bot",
+  "main": "src/index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Mike Semyonov",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "node-wav-player": "^0.1.0",
+    "say": "^0.16.0",
+    "telegraf": "^3.38.0",
+    "telegraf-command-parts": "^1.0.3"
+  }
+}
